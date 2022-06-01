@@ -1,0 +1,6 @@
+project: lopdf
+target: load-modify
+duration: 90
+
+cmds:
+    - cmd: /load_modify

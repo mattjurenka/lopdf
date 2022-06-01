@@ -1,0 +1,6 @@
+project: lopdf
+target: stream
+duration: 90
+
+cmds:
+    - cmd: /stream
